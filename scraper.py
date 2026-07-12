@@ -26,7 +26,7 @@ TELEGRAM_CHANNELS = [
 
 # لیست لینک‌های گیت‌هاب و منابع دیگر (منبع دوم)[span_1](start_span)[span_1](end_span)
 URL_SOURCES = [
-    "https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/configs/all.txt";
+    "https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/configs/all.txt"
 ]
 
 # تعریف فایل‌های خروجی و الگوهای شناسایی آن‌ها
