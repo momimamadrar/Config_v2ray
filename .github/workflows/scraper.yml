@@ -1,0 +1,39 @@
+name: Auto Config Scraper
+
+on:
+  schedule:
+    # زمان‌بندی کرون جاب برای هر ۲۰ دقیقه
+    - cron: '*/20 * * * *'
+  workflow_dispatch: # فعال کردن دکمه اجرای دستی در گیت‌هاب
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # دسترسی لازم برای آپدیت کردن و کامیت داخل مخزن
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run Scraper Script
+      run: python scraper.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add vmess.txt vless.txt trojan.txt ss.txt tuic.txt reality.txt hysteria.txt
+        # فقط در صورتی کامیت کن که تغییراتی ایجاد شده باشه تا خطا ندهد
+        git diff-index --quiet HEAD || git commit -m "Auto-update configs: $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
+        git push
