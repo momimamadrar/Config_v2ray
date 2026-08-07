@@ -20,6 +20,7 @@ trojan://581e14a5fcc14107b9326cc54f047891@31.76.11.46:443?sni=31.76.11.46.cdn-on
 trojan://581e14a5fcc14107b9326cc54f047891@83.143.112.140:443?sni=83.143.112.140.cdn-one.org&type=grpc&serviceName=/56227/rSnUrv2yXU&mode=gun&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20473014
 trojan://581e14a5fcc14107b9326cc54f047891@83.143.112.140:443?sni=83.143.112.140.cdn-one.org&type=grpc&serviceName=/56227/rSnUrv2yXU&mode=gun&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20791416
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
+trojan://6kcro2JWRvYBom13BJWnb89RYTrQtG70KBhE3arb9T4%3D@65.109.208.236:55109?security=none&amp;headerType=&amp;type=tcp#none
 trojan://87961f9d-bee1-4377-826b-e169e7891c4f@104.25.242.132:443?host=yks-dd9.pages.dev&path=%2F&sni=yks-dd9.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20668283
 trojan://87961f9d-bee1-4377-826b-e169e7891c4f@104.25.242.132:443?host=yks-dd9.pages.dev&path=/&sni=yks-dd9.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20289665
 trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20147768
