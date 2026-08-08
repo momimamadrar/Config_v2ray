@@ -268,7 +268,6 @@ trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos#%F0%9F
 trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20571937
 trojan://ND91608427@54.249.34.120:443?sni=social-mutt.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20161502
 trojan://ND91608427@54.249.34.120:443?sni=social-mutt.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20426644
-trojan://ND91608427@54.255.35.23:443?fp=chrome&amp;sni=tidy-gelding.rooster465.autos#%F0%9F%A7%8571@oneclickvpnkeys
 trojan://ND91608427@54.255.35.23:443?fp=chrome&sni=tidy-gelding.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20160561
 trojan://ND91608427@54.255.35.23:443?fp=chrome&sni=tidy-gelding.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20418579
 trojan://ND91608427@54.65.167.167:443?sni=tough-robin.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20102374
@@ -434,7 +433,6 @@ trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&amp;security=tls&amp;
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.multiplydose.com#@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#
 trojan://k2Go3Q6dN%2BfFOMdPuCKbPhnmez%2F2niJCRApdrrVYuws%3D@65.109.208.236:55877?security=none&amp;headerType=&amp;type=tcp#%40v2rayNG_Matsuri
-trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?allowInsecure=1&amp;fp=chrome&amp;sni=static.rutube.ru#%F0%9F%A7%8545@oneclickvpnkeys
 trojan://ncnr1qxfkf4j1pg1@de-d-178105.homelanderwins.com:18617?authority=t.me%2Fdefyxvpn_fa&amp;fp=chrome&amp;pbk=JuAdUJ1hEsmCRnKqAZq9r9nVLgPBHKKfu_A69YjN5AU&amp;pqv=JTi6t…
 trojan://ncnr1qxfkf4j1pg1@de-d-178105.homelanderwins.com:44600?host=P30day.ir&amp;path=%2Ft.me%2Fdefyxvpn_fa&amp;security=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Trojan%20WS-%40defyxvpn_fa
 trojan://wE0CA%2BqFy6HpXEYDckEg1SlhqL37BPtJaCPotkzYjE0%3D@91.107.157.137:35558?security=none&amp;headerType=&amp;type=tcp#nyq0u184n2
