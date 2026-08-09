@@ -338,7 +338,6 @@ trojan://ON38567014@13.38.35.46:443?security=tls&amp;insecure=0&amp;headerType=n
 trojan://PD07395842@optimum-bull.rooster465.autos:443?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0#T.me%2FSafeNet_Server%20%F0%9F%92%9A%F0%9F%A4%8D%E2%9D%A4
 trojan://QV31589740@51.44.160.58:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20424900
 trojan://QV31589740@51.44.160.58:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20995432
-trojan://QV31589740@51.44.160.58:443?fp=chrome&amp;sni=great-krill.rooster465.autos#%E2%9C%A827@oneclickvpnkeys
 trojan://QV31589740@51.44.160.58:443?security=tls&sni=great-krill.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20407224
 trojan://QV31589740@51.44.160.58:443?sni=great-krill.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20519026
 trojan://QV31589740@51.44.160.58:443?sni=great-krill.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20300187
@@ -390,6 +389,7 @@ trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=/assignment&s
 trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20255734
 trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20164950
 trojan://humanity@104.16.174.121:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
+trojan://humanity@104.16.174.12:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#[
 trojan://humanity@104.16.174.36:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20681773
 trojan://humanity@104.16.174.36:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20336228
 trojan://humanity@104.16.174.37:443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20994224
@@ -483,7 +483,6 @@ trojan://k2Go3Q6dN%2BfFOMdPuCKbPhnmez%2F2niJCRApdrrVYuws%3D@65.109.208.236:55877
 trojan://ncnr1qxfkf4j1pg1@de-d-178105.homelanderwins.com:18617?authority=t.me%2Fdefyxvpn_fa&amp;fp=chrome&amp;pbk=JuAdUJ1hEsmCRnKqAZq9r9nVLgPBHKKfu_A69YjN5AU&amp;pqv=JTi6t…
 trojan://ncnr1qxfkf4j1pg1@de-d-178105.homelanderwins.com:44600?host=P30day.ir&amp;path=%2Ft.me%2Fdefyxvpn_fa&amp;security=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Trojan%20WS-%40defyxvpn_fa
 trojan://tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz@43.249.172.27:443?security=tls&sni=hongkong.kingonestar.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20652094
-trojan://telegram-id-directvpn@16.171.229.164:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-privatevpns@13.48.99.79:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://tsuchiya@161.34.39.108:443?security=tls&type=tcp&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20685850
 trojan://wE0CA%2BqFy6HpXEYDckEg1SlhqL37BPtJaCPotkzYjE0%3D@91.107.157.137:35558?security=none&amp;headerType=&amp;type=tcp#nyq0u184n2
