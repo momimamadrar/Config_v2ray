@@ -475,7 +475,6 @@ trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20484854
 trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20204359
 trojan://humanity@85.198.11.172:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20701680
-trojan://humanity@millionaire.levikogjgfdd.ir:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20CDN
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#T.me%2FSafeNet_Server%20%F0%9F%92%9A%F0%9F%A4%8D%E2%9D%A4
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.multiplydose.com#@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#
