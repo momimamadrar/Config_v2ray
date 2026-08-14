@@ -89,3 +89,4 @@ vmess://eyJhZGQiOiJlZjRlNDg2MC0wMDhjLTNlMDEtZDFmOC1iZDU2ZGM1YjQxOWIub25lcGx1cy5w
 vmess://eyJhZGQiOiJwbDEubGV2aWtvZ2pnZmRkLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJUZWxlZ3JhbS1MZXZpa29fdjJyYXkiLCJpZCI6IjA1NWRlNDBkLWM1ZDAtNDA2NC1iMTI0LTk0OWJhMjg0YzNiNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IkBTaGFkb3dQcm94eTY2IPCfh7Xwn4exIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 vmess://f6361af8-bb8f-4609-bf5d-3fc0f688f47b@65.109.178.10:2086?encryption=auto&amp;security=none&amp;type=tcp#%F0%9F%9B%8E%EF%B8%8F26@oneclickvpnkeys
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=aes-128-gcm&amp;security=none&amp;type=tcp#%F0%9F%9B%8E%EF%B8%8F44@oneclickvpnkeys
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&amp;security=none&amp;type=tcp#%F0%9F%9B%8E%EF%B8%8F47@oneclickvpnkeys
