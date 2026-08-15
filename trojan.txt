@@ -237,9 +237,6 @@ trojan://AE62539071@89.39.70.238:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20959688
 trojan://AE62539071@89.39.70.9:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20367741
 trojan://AE62539071@89.39.70.9:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20409426
 trojan://AE62539071@89.39.70.9:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20454252
-trojan://AE62539071@present-warthog.rooster465.autos:443#%F0%9F%9B%9722@oneclickvpnkeys
-trojan://AE62539071@thorough-falcon.rooster465.autos:443#%F0%9F%9B%9723@oneclickvpnkeys
-trojan://AE62539071@whole-woodcock.rooster465.autos:443#%F0%9F%9B%9745@oneclickvpnkeys
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20790633
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=/?proxyip=ts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20619671
 trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20548588
@@ -367,9 +364,15 @@ trojan://FH72359861@54.72.58.12:443?sni=darling-mongrel.rooster465.autos&type=tc
 trojan://FH72359861@56.10.68.149:443?sni=square-guinea.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20878351
 trojan://FH72359861@57.180.23.141:443?sni=engaged-lionfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20190955
 trojan://FH72359861@63.176.171.181:443?sni=engaging-toucan.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20815868
+trojan://FH72359861@correct-pony.rooster465.autos:443#%E2%9A%9B%EF%B8%8F39@oneclickvpnkeys
+trojan://FH72359861@engaging-toucan.rooster465.autos:443#%E2%9A%9B%EF%B8%8F34@oneclickvpnkeys
 trojan://FH72359861@epic-iguana.rooster465.autos:443#%F0%9F%9B%8E%EF%B8%8F61@oneclickvpnkeys
+trojan://FH72359861@nearby-cod.rooster465.autos:443#%E2%9A%9B%EF%B8%8F38@oneclickvpnkeys
 trojan://FH72359861@pro-crane.rooster465.autos:443#%E2%9A%9B%EF%B8%8F25@oneclickvpnkeys
+trojan://FH72359861@renewed-chigger.rooster465.autos:443#%E2%9A%9B%EF%B8%8F36@oneclickvpnkeys
 trojan://FH72359861@renewed-porpoise.rooster465.autos:443#%E2%9A%9B%EF%B8%8F13@oneclickvpnkeys
+trojan://FH72359861@smiling-fowl.rooster465.autos:443#%E2%9A%9B%EF%B8%8F40@oneclickvpnkeys
+trojan://FH72359861@summary-lemming.rooster465.autos:443#%E2%9A%9B%EF%B8%8F31@oneclickvpnkeys
 trojan://JjiXs5x2%2FgDh7%2FdvgivEtflOc8QeiKoSmBRXDwhkItI%3D@91.107.139.186:24227?security=none&amp;headerType=&amp;type=tcp#telegram%E2%9E%A0%40v2rayNG_Matsuri
 trojan://MITIVPN@104.18.152.225:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=d-e-mitivpn---MiTiVPN---MiTiVPN.aPp-cLoud.IR&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=Dee---7-MiTiVPN----o.aPp-cLoud.IR#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9
 trojan://MITIVPN@104.19.229.21:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde2---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=De2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=Ddee2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#%E2%9A%A1%EF%B8%8F%20%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%20%E2%9A%A1%EF%B8%8F%20%7C%20%40prrofile_purple
