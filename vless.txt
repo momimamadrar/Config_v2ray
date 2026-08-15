@@ -955,7 +955,6 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?path=%2FGOrbEh&am
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#%40V2rayng_Fast%20%F0%9F%87%B8%F0%9F%87%AA
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#%40FarazV2ray
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#%40V2rayng_Fast
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#%40FarazV2ray
@@ -1070,9 +1069,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22222?security=none&a
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.209.231:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.209.231:22223?encryption=none&amp;security=none&amp;type=tcp#OurChannel
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.209.231:22224?encryption=none&amp;security=none&amp;type=tcp#@VlessConfig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.45.65:22222?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.45.65:22223?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.45.65:22224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.123.201:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.123.201:22223?encryption=none&amp;security=none&amp;type=tcp#OurChannel
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.123.201:22224?encryption=none&amp;security=none&amp;type=tcp#@VlessConfig
@@ -1128,9 +1124,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.73.255:22223?security=none&a
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.73.255:22224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.250.13:22223?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40flyv2ray
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.250.13:22224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40flyv2ray
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.162.237:22222?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.162.237:22223?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.162.237:22224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.167.167:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.167.167:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20810396
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.167.167:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20903246
