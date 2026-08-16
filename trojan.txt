@@ -16,6 +16,7 @@ trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&amp;he
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&amp;security=tls&amp;insecure=0&amp;host=tjplay.lxdxo.kdns.fr&amp;type=ws&amp;allowInsecure=0&amp;sni=tjplay.lxdxo.kdns.fr#%E2%9A%A1%EF%B8%8F%20%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%20%E2%9A%A1%EF%B8%8F%20%7C%20%40prrofile_purple
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
+trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?security=tls&amp;sni=www.nintendogames.net&amp;fp=chrome&amp;type=tcp&amp;headerType=none#[🇴🇳]t.me/ConfigsHub
 trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?sni=www.nintendogames.net&type=raw&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20515628
 trojan://6ec301428255a78a1d826988d86cc87e@18.163.24.178:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20573564
 trojan://7a49ebc8-6235-36b1-b7b4-0864b95bd90a@ger.aaaa.gay:45900?allowInsecure=0#@Hope_Net-join-us-on-Telegram
@@ -267,12 +268,15 @@ trojan://AE62539071@18.183.92.88:443?sni=upward-yak.rooster465.autos&allowInsecu
 trojan://AE62539071@18.183.92.88:443?sni=upward-yak.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20737158
 trojan://AE62539071@18.183.92.88:443?sni=upward-yak.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20570283
 trojan://AE62539071@18.183.92.88:443?sni=upward-yak.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20582690
+trojan://AE62539071@18.194.130.12:443?fp=chrome&amp;sni=sterling-macaw.rooster465.autos#%E2%9A%9B%EF%B8%8F6@oneclickvpnkeys
 trojan://AE62539071@18.194.232.212:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20572862
 trojan://AE62539071@18.194.232.212:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20845040
+trojan://AE62539071@18.194.232.212:443?fp=chrome&amp;sni=dashing-bedbug.rooster465.autos#%E2%9A%9B%EF%B8%8F8@oneclickvpnkeys
 trojan://AE62539071@18.194.232.212:443?fp=chrome&sni=dashing-bedbug.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20682600
 trojan://AE62539071@18.194.232.212:443?fp=chrome&sni=dashing-bedbug.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20956798
 trojan://AE62539071@18.194.232.212:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20206096
 trojan://AE62539071@18.194.232.212:443?sni=dashing-bedbug.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20368823
+trojan://AE62539071@18.198.1.232:443?fp=chrome&amp;sni=teaching-gnu.rooster465.autos#%E2%9A%9B%EF%B8%8F5@oneclickvpnkeys
 trojan://AE62539071@18.198.1.232:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20478428
 trojan://AE62539071@18.198.1.232:443?security=tls&sni=teaching-gnu.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20674847
 trojan://AE62539071@18.198.1.232:443?sni=teaching-gnu.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20194878
@@ -1273,6 +1277,7 @@ trojan://FH72359861@optimal-urchin.rooster465.autos:443#%E2%9A%9B%EF%B8%8F73@one
 trojan://FH72359861@primary-leech.rooster465.autos:443?allowInsecure=1#%E2%9A%9B%EF%B8%8F74@oneclickvpnkeys
 trojan://FH72359861@pro-crane.rooster465.autos:443#%E2%9A%9B%EF%B8%8F25@oneclickvpnkeys
 trojan://FH72359861@renewed-chigger.rooster465.autos:443#%E2%9A%9B%EF%B8%8F36@oneclickvpnkeys
+trojan://FH72359861@renewed-porpoise.rooster465.autos:443#%E2%9A%9B%EF%B8%8F13@oneclickvpnkeys
 trojan://FH72359861@renewed-porpoise.rooster465.autos:443#%F0%9F%A6%8132@oneclickvpnkeys
 trojan://FH72359861@smiling-fowl.rooster465.autos:443#%E2%9A%9B%EF%B8%8F40@oneclickvpnkeys
 trojan://FH72359861@summary-lemming.rooster465.autos:443#%E2%9A%9B%EF%B8%8F31@oneclickvpnkeys
