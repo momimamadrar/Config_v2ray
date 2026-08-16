@@ -6,7 +6,6 @@ trojan://0896373c-7cd9-4221-b50d-9634990d6751@tw.suntory.lol:38513?allowInsecure
 trojan://1d2a8749-001e-4809-b767-cb04a54bdf7f@625tw.ok365.cyou:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://1d2a8749-001e-4809-b767-cb04a54bdf7f@625us.ok365.cyou:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://1d2a8749-001e-4809-b767-cb04a54bdf7f@73hk01.ok365.cyou:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
-trojan://2cdcceba-68e9-6855-3e86-c92fb6706ce5@rvg-production-6c35.up.railway.app:443?mode=packet-up&amp;path=%2Ftxhttp-siz10%2Fpacket-up%2F2cdcceba-68e9-6855-3e86-c92fb6706ce5&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=0&amp;host=rvg-production-6c35.up.railway.app&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=rvg-production-6c35.up.railway.app#[
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&amp;security=tls&amp;fp=chrome&amp;type=grpc&amp;serviceName=db&amp;sni=n2.gladns.com#United%20State%20Nato
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Japan%20NTT%20Pc
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
@@ -2178,9 +2177,9 @@ trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&path=/assignment&sni=
 trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20634013
 trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20845879
 trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20967585
-trojan://humanity@130.250.137.171:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#[
 trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20371389
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20769889
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#[
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40FarazV2ray
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40V2rayng_Fast
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
@@ -2202,7 +2201,9 @@ trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&insecure=0&
 trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20263532
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20881471
 trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20776822
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#[
 trojan://humanity@85.198.11.172:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20400962
+trojan://humanity@fr2.levikogjgfdd.ir:2053?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#[
 trojan://humanity@render.com:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#T.me%2FSafeNet_Server%20%F0%9F%92%9A%F0%9F%A4%8D%E2%9D%A4
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.multiplydose.com#@CUSTOMVPNSERVER
