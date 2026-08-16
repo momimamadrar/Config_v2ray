@@ -1,5 +1,4 @@
 vmess://260270e9-c25c-491a-8777-ea4e5173d49c@neo.novaro.ir:2087?encryption=auto&amp;headerType=http&amp;host=play.google.com&amp;path=%2F&amp;security=none&amp;type=tcp#%E2%9A%9B%EF%B8%8F7@oneclickvpnkeys
-vmess://48422300-458f-4dbb-b0f5-96f45450ab9f@178.83.45.29:38998?encryption=auto&amp;security=none&amp;type=tcp#%F0%9F%9B%8E%EF%B8%8F16@oneclickvpnkeys
 vmess://9a1a05d9-69be-45d3-e326-c6621edf7b31@104.105.18.214:2053?encryption=auto&amp;host=deapp.jisuyun.top&amp;path=%2Fdevm&amp;security=tls&amp;sni=deapp.jisuyun.top&amp;type=ws#%F0%9F%A6%8125@oneclickvpnkeys
 vmess://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&amp;host=deapp.jisuyun.top&amp;path=%2Fdevm&amp;security=tls&amp;sni=deapp.jisuyun.top&amp;type=ws#%E2%9A%9B%EF%B8%8F70@oneclickvpnkeys
 vmess://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&amp;host=deapp.jisuyun.top&amp;path=%2Fdevm&amp;security=tls&amp;sni=deapp.jisuyun.top&amp;type=ws#%F0%9F%A6%8127@oneclickvpnkeys

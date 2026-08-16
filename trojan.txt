@@ -747,9 +747,11 @@ trojan://DILbRzFC@tr0jan.wefuckgfw.gq:443?allowInsecure=1#@Hope_Net-join-us-on-T
 trojan://EFUWQ5XSyYC8%2FiD044lN91hV7fIiyJW4HrKFj3D7g1s%3D@65.109.208.236:38724?security=none&amp;headerType=&amp;type=tcp#%40v2rayNG_Matsuri
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=kuame.missionsec.us#Japan%20Klayer%20LLC
 trojan://FH72359861@108.128.201.154:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20973789
+trojan://FH72359861@108.128.201.154:443?sni=touching-turtle.rooster465.autos#%F0%9F%A6%8133@oneclickvpnkeys
 trojan://FH72359861@108.128.201.154:443?sni=touching-turtle.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20183714
 trojan://FH72359861@108.128.201.154:443?sni=touching-turtle.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20491137
 trojan://FH72359861@108.128.201.154:443?sni=touching-turtle.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20642508
+trojan://FH72359861@108.130.49.217:443?allowInsecure=1&amp;sni=concise-bass.rooster465.autos#%F0%9F%A6%8148@oneclickvpnkeys
 trojan://FH72359861@108.130.49.217:443?sni=concise-bass.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20651291
 trojan://FH72359861@108.130.49.217:443?sni=concise-bass.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20907476
 trojan://FH72359861@108.130.49.217:443?sni=concise-bass.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20690507
@@ -1035,6 +1037,7 @@ trojan://FH72359861@34.222.243.142:443?sni=comic-poodle.rooster465.autos&type=tc
 trojan://FH72359861@34.245.159.68:443?allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20177296
 trojan://FH72359861@34.245.159.68:443?allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20715572
 trojan://FH72359861@34.245.159.68:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20733200
+trojan://FH72359861@34.245.159.68:443?sni=summary-firefly.rooster465.autos#%F0%9F%A6%8134@oneclickvpnkeys
 trojan://FH72359861@34.245.159.68:443?sni=summary-firefly.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20898595
 trojan://FH72359861@35.159.21.7:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20497456
 trojan://FH72359861@35.159.21.7:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20733685
@@ -1179,6 +1182,7 @@ trojan://FH72359861@54.185.164.73:443?sni=outgoing-lynx.rooster465.autos&type=tc
 trojan://FH72359861@54.199.61.70:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20989794
 trojan://FH72359861@54.199.61.70:443?sni=internal-peacock.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20615186
 trojan://FH72359861@54.199.61.70:443?sni=internal-peacock.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20662555
+trojan://FH72359861@54.216.139.140:443?allowInsecure=1&amp;sni=cunning-grub.rooster465.autos#%F0%9F%A6%8131@oneclickvpnkeys
 trojan://FH72359861@54.216.139.140:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20834139
 trojan://FH72359861@54.216.139.140:443?sni=cunning-grub.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20491588
 trojan://FH72359861@54.216.139.140:443?sni=cunning-grub.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20472556
@@ -1226,6 +1230,7 @@ trojan://FH72359861@54.64.38.110:443?sni=equal-labrador.rooster465.autos&fp=chro
 trojan://FH72359861@54.64.38.110:443?sni=equal-labrador.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20927402
 trojan://FH72359861@54.64.38.110:443?sni=equal-labrador.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20394805
 trojan://FH72359861@54.72.58.12:443?security=tls&sni=darling-mongrel.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20544484
+trojan://FH72359861@54.72.58.12:443?sni=darling-mongrel.rooster465.autos#%F0%9F%A6%8142@oneclickvpnkeys
 trojan://FH72359861@54.72.58.12:443?sni=darling-mongrel.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20701636
 trojan://FH72359861@54.72.58.12:443?sni=darling-mongrel.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20163716
 trojan://FH72359861@57.180.23.141:443?sni=engaged-lionfish.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20608081
@@ -1260,7 +1265,10 @@ trojan://FH72359861@91.199.84.204:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%
 trojan://FH72359861@alive-snapper.rooster465.autos:443#%E2%9A%9B%EF%B8%8F59@oneclickvpnkeys
 trojan://FH72359861@balanced-heron.rooster465.autos:443?allowInsecure=1#%E2%9A%9B%EF%B8%8F64@oneclickvpnkeys
 trojan://FH72359861@charming-puma.rooster465.autos:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20385927
+trojan://FH72359861@concise-bass.rooster465.autos:443?allowInsecure=1#%F0%9F%A6%8140@oneclickvpnkeys
 trojan://FH72359861@correct-pony.rooster465.autos:443#%E2%9A%9B%EF%B8%8F39@oneclickvpnkeys
+trojan://FH72359861@cunning-grub.rooster465.autos:443#%F0%9F%A6%8158@oneclickvpnkeys
+trojan://FH72359861@darling-mongrel.rooster465.autos:443?allowInsecure=1#%F0%9F%A6%8145@oneclickvpnkeys
 trojan://FH72359861@engaging-toucan.rooster465.autos:443#%E2%9A%9B%EF%B8%8F34@oneclickvpnkeys
 trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1#%E2%9A%9B%EF%B8%8F72@oneclickvpnkeys
 trojan://FH72359861@nearby-cod.rooster465.autos:443#%E2%9A%9B%EF%B8%8F38@oneclickvpnkeys
@@ -1269,10 +1277,12 @@ trojan://FH72359861@primary-leech.rooster465.autos:443?allowInsecure=1#%E2%9A%9B
 trojan://FH72359861@pro-crane.rooster465.autos:443#%E2%9A%9B%EF%B8%8F25@oneclickvpnkeys
 trojan://FH72359861@renewed-chigger.rooster465.autos:443#%E2%9A%9B%EF%B8%8F36@oneclickvpnkeys
 trojan://FH72359861@renewed-porpoise.rooster465.autos:443#%E2%9A%9B%EF%B8%8F13@oneclickvpnkeys
+trojan://FH72359861@renewed-porpoise.rooster465.autos:443#%F0%9F%A6%8132@oneclickvpnkeys
 trojan://FH72359861@smiling-fowl.rooster465.autos:443#%E2%9A%9B%EF%B8%8F40@oneclickvpnkeys
 trojan://FH72359861@summary-lemming.rooster465.autos:443#%E2%9A%9B%EF%B8%8F31@oneclickvpnkeys
 trojan://FH72359861@topical-shark.rooster465.autos:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20570947
 trojan://FH72359861@topical-shark.rooster465.autos:443?sni=topical-shark.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20966831
+trojan://FH72359861@touching-turtle.rooster465.autos:443#%F0%9F%A6%8160@oneclickvpnkeys
 trojan://HC04361579@13.125.211.80:443?sni=enough-lamb.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20363277
 trojan://HC04361579@13.125.211.80:443?sni=enough-lamb.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20969004
 trojan://HC04361579@13.125.211.80:443?sni=enough-lamb.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20515251
@@ -1593,6 +1603,7 @@ trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&path=%2Fassignment&sn
 trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20923618
 trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20584956
 trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20625058
+trojan://humanity@104.18.8.83:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#[
 trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20243098
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20221853
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40FarazV2ray
@@ -1612,6 +1623,7 @@ trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&ech=ip.g
 trojan://humanity@2.144.15.223:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20864649
 trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20755510
 trojan://humanity@2.144.22.10:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20101990
+trojan://humanity@212.183.88.136:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#[
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20307769
 trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20183749
 trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20361578
@@ -1619,11 +1631,11 @@ trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20981757
 trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20495032
 trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20734986
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#[
 trojan://humanity@85.198.11.172:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20370464
 trojan://humanity@render.com:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#T.me%2FSafeNet_Server%20%F0%9F%92%9A%F0%9F%A4%8D%E2%9D%A4
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.multiplydose.com#@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?sni=russiapower.accesscam.org#%F0%9F%A6%8153@oneclickvpnkeys
 trojan://telegram-id-directvpn@18.220.25.23:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@3.76.5.71:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
