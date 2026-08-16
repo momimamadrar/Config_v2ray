@@ -916,7 +916,6 @@ trojan://AE62539071@89.39.70.9:443?security=tls&sni=whole-woodcock.rooster465.au
 trojan://AE62539071@89.39.70.9:443?security=tls&sni=whole-woodcock.rooster465.autos&type=tcp&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20902514
 trojan://AE62539071@91.199.84.120:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20373615
 trojan://AE62539071@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20207367
-trojan://AE62539071@uncommon-feline.rooster465.autos:443?security=tls#[
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20275312
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=/?proxyip=ts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20416736
 trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20204841
@@ -1745,9 +1744,9 @@ trojan://FH72359861@darling-mongrel.rooster465.autos:443?allowInsecure=1#%F0%9F%
 trojan://FH72359861@engaging-toucan.rooster465.autos:443#%E2%9A%9B%EF%B8%8F34@oneclickvpnkeys
 trojan://FH72359861@renewed-chigger.rooster465.autos:443#%E2%9A%9B%EF%B8%8F36@oneclickvpnkeys
 trojan://FH72359861@renewed-porpoise.rooster465.autos:443#%F0%9F%A6%8132@oneclickvpnkeys
-trojan://FH72359861@sacred-shepherd.rooster465.autos:443?security=tls&amp;sni=sacred-shepherd.rooster465.autos&amp;fp=chrome&amp;type=tcp&amp;path=%2f#[
 trojan://FH72359861@summary-firefly.rooster465.autos:443#%F0%9F%A6%8179@oneclickvpnkeys
 trojan://FH72359861@touching-turtle.rooster465.autos:443#%F0%9F%A6%8160@oneclickvpnkeys
+trojan://FH72359861@welcome-monitor.rooster465.autos:443?allowInsecure=0&amp;sni=welcome-monitor.rooster465.autos#[
 trojan://HC04361579@13.125.211.80:443?sni=enough-lamb.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20148528
 trojan://HC04361579@13.125.211.80:443?sni=enough-lamb.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20757664
 trojan://HC04361579@13.125.211.80:443?sni=enough-lamb.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20405090
@@ -2142,6 +2141,7 @@ trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment
 trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20322536
 trojan://humanity@104.16.174.121:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 trojan://humanity@104.16.174.36:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20229540
+trojan://humanity@104.16.174.36:443?allowInsecure=0&amp;sni=www.ignitelimit.com&amp;ws=1&amp;wspath=%2Fassignment#[
 trojan://humanity@104.16.174.36:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20202916
 trojan://humanity@104.16.174.37:443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20269534
 trojan://humanity@104.16.174.37:443?allowInsecure=1&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20590338
