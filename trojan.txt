@@ -1413,7 +1413,6 @@ trojan://FH72359861@57.180.38.121:443?sni=champion-panther.rooster465.autos&type
 trojan://FH72359861@57.180.38.121:443?sni=champion-panther.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20806938
 trojan://FH72359861@63.176.171.181:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20377699
 trojan://FH72359861@63.176.171.181:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20551127
-trojan://FH72359861@63.176.171.181:443#[
 trojan://FH72359861@63.176.171.181:443?allowInsecure=1&amp;sni=engaging-toucan.rooster465.autos#%F0%9F%A6%819@oneclickvpnkeys
 trojan://FH72359861@63.176.171.181:443?sni=engaging-toucan.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20598079
 trojan://FH72359861@63.176.171.181:443?sni=engaging-toucan.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20839700
