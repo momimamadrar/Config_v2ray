@@ -1939,10 +1939,7 @@ trojan://PQ05174892@57.180.40.220:443?sni=brief-flamingo.rooster465.autos&allowI
 trojan://PQ05174892@63.179.149.234:443?fp=chrome&amp;sni=usable-dogfish.rooster465.autos#%F0%9F%8C%808@oneclickvpnkeys
 trojan://PQ05174892@63.179.149.234:443?sni=usable-dogfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20223383
 trojan://PQ05174892@63.179.149.234:443?sni=usable-dogfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20904921
-trojan://PQ05174892@concise-guinea.rooster465.autos:443?allowInsecure=1#[
-trojan://PQ05174892@stable-python.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;allowInsecure=0#[
 trojan://PQ05174892@usable-dogfish.rooster465.autos:443?fp=chrome#%F0%9F%8C%809@oneclickvpnkeys
-trojan://PQ05174892@welcome-monitor.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;allowInsecure=0&amp;sni=#[
 trojan://PqTfgecg@trojan.wefuckgfw.gq:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://QV31589740@51.44.160.58:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20158646
 trojan://QV31589740@51.44.160.58:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20546951
@@ -1979,9 +1976,6 @@ trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooste
 trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20657579
 trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20566403
 trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20991079
-trojan://ZJU29smXwp@172.67.191.189:2053?path=%2F&amp;security=tls&amp;host=k.teama.tk&amp;type=ws&amp;sni=web2.teama.tk#[
-trojan://ZJU29smXwp@172.67.68.87:2053?path=%2F&amp;security=tls&amp;host=k.teama.tk&amp;type=ws&amp;sni=Web2.teama.tk#[
-trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&amp;security=tls&amp;host=k.teama.tk&amp;type=ws&amp;sni=web2.teama.tk#[
 trojan://aacbacb-baac-caab-cdba-caccbabaabbc@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20834167
 trojan://acacbab-baac-abac-dcab-aacabcbcabcb@127.0.0.1:8080?security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20922032
 trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@104.21.39.47:443?sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws&path=/taha3&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20386410
