@@ -152,3 +152,5 @@ ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOS4xMDQuMTUyLjI3OjEyMzQ1#%F0%9F%87%
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@195.154.200.150:2376#@Hope_Net
 ss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw==@166.88.130.218:30331#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20508326
 ss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw@166.88.130.218:30331#%E2%80%8Chttps%3A%2F%2Ft.me%2Fv2rayNG_Matsuri
+ss://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&amp;host=lsjaoijji.global.ssl.fastly.neT.&amp;path=%2F&amp;security=tls&amp;sni=ssl.fastly.com&amp;type=ws#[
+ss://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?alpn=h2&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;security=tls&amp;sni=nasnet-162191099-direct.mbghalibaf.com…#[
