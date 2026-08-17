@@ -13,9 +13,6 @@ trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&amp;securit
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 trojan://7a49ebc8-6235-36b1-b7b4-0864b95bd90a@ger.aaaa.gay:45900?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://AE62539071@15.237.214.103:443?allowInsecure=1&amp;sni=tough-hermit.rooster465.autos#%F0%9F%A6%8128@oneclickvpnkeys
-trojan://AE62539071@15.237.214.103:443?sni=tough-hermit.rooster465.autos&amp;type=tcp&amp;fp=chrome#[
-trojan://AE62539071@3.120.138.119:443?fp=chrome&amp;sni=up-dinosaur.rooster465.autos#%E2%9A%9B%EF%B8%8F9@oneclickvpnkeys
-trojan://AE62539071@noted-bass.rooster465.autos:443?security=tls&amp;path=%2f#[
 trojan://BxceQaOe@219.79.214.159:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=t.me%252Fripaojiedian#Hong%20Kong%20Netvigator
 trojan://DILbRzFC@tr0jan.wefuckgfw.gq:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=kuame.missionsec.us#Japan%20Klayer%20LLC
@@ -32,8 +29,6 @@ trojan://FH72359861@63.176.171.181:443?security=tls&amp;insecure=1&amp;headerTyp
 trojan://FH72359861@concise-bass.rooster465.autos:443?allowInsecure=1#%F0%9F%A6%8140@oneclickvpnkeys
 trojan://FH72359861@cunning-grub.rooster465.autos:443#%F0%9F%A6%8158@oneclickvpnkeys
 trojan://FH72359861@darling-mongrel.rooster465.autos:443?allowInsecure=1#%F0%9F%A6%8145@oneclickvpnkeys
-trojan://FH72359861@engaging-toucan.rooster465.autos:443#%E2%9A%9B%EF%B8%8F34@oneclickvpnkeys
-trojan://FH72359861@renewed-chigger.rooster465.autos:443#%E2%9A%9B%EF%B8%8F36@oneclickvpnkeys
 trojan://FH72359861@renewed-porpoise.rooster465.autos:443#%F0%9F%A6%8132@oneclickvpnkeys
 trojan://FH72359861@summary-firefly.rooster465.autos:443#%F0%9F%A6%8179@oneclickvpnkeys
 trojan://FH72359861@touching-turtle.rooster465.autos:443#%F0%9F%A6%8160@oneclickvpnkeys
