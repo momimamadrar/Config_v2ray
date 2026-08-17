@@ -21,7 +21,6 @@ trojan://FH72359861@108.130.49.217:443?allowInsecure=1&amp;sni=concise-bass.roos
 trojan://FH72359861@15.237.112.48:443?allowInsecure=1&amp;sni=smiling-fowl.rooster465.autos#%F0%9F%A6%8130@oneclickvpnkeys
 trojan://FH72359861@3.120.70.66:443?sni=renewed-porpoise.rooster465.autos#%F0%9F%A6%8111@oneclickvpnkeys
 trojan://FH72359861@34.245.159.68:443?sni=summary-firefly.rooster465.autos#%F0%9F%A6%8134@oneclickvpnkeys
-trojan://FH72359861@35.159.21.7:443?sni=summary-lemming.rooster465.autos#%F0%9F%A6%8115@oneclickvpnkeys
 trojan://FH72359861@54.216.139.140:443?allowInsecure=1&amp;sni=cunning-grub.rooster465.autos#%F0%9F%A6%8131@oneclickvpnkeys
 trojan://FH72359861@54.72.58.12:443?sni=darling-mongrel.rooster465.autos#%F0%9F%A6%8142@oneclickvpnkeys
 trojan://FH72359861@63.176.171.181:443?allowInsecure=1&amp;sni=engaging-toucan.rooster465.autos#%F0%9F%A6%819@oneclickvpnkeys
