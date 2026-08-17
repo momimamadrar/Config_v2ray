@@ -1920,7 +1920,6 @@ trojan://humanity@104.16.73.213:443?path=/assignment&security=tls&insecure=0&fp=
 trojan://humanity@104.17.111.4:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20684594
 trojan://humanity@104.17.111.4:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20141118
 trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20403019
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#[
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40FarazV2ray
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40V2rayng_Fast
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
