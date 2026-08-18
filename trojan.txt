@@ -2761,8 +2761,6 @@ trojan://PQ05174892@63.179.149.234:443?sni=usable-dogfish.rooster465.autos&fp=ch
 trojan://PQ05174892@63.179.149.234:443?sni=usable-dogfish.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20898003
 trojan://PQ05174892@63.179.149.234:443?sni=usable-dogfish.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20946669
 trojan://PQ05174892@fleet-pony.rooster465.autos:443?allowInsecure=1#%F0%9F%8E%8872@oneclickvpnkeys
-trojan://PQ05174892@humane-bird.rooster465.autos:443?allowInsecure=1#1%F0%9F%8C%80@oneclickvpnkeys
-trojan://PQ05174892@lucky-marmot.rooster465.autos:443?allowInsecure=1#4%F0%9F%8C%80@oneclickvpnkeys
 trojan://PQ05174892@welcome-monitor.rooster465.autos:443#%F0%9F%8E%8883@oneclickvpnkeys
 trojan://PqTfgecg@trojan.wefuckgfw.gq:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://QV31589740@51.44.160.58:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20177528
