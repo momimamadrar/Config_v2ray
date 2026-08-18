@@ -1154,7 +1154,6 @@ trojan://FH72359861@89.39.70.120:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20334866
 trojan://FH72359861@89.39.70.120:443?security=tls&sni=pro-crane.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20837321
 trojan://FH72359861@91.199.84.155:443?sni=modern-bedbug.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20435400
 trojan://FH72359861@renewed-porpoise.rooster465.autos:443#%F0%9F%A6%8132@oneclickvpnkeys
-trojan://FH72359861@summary-firefly.rooster465.autos:443#%F0%9F%A6%8179@oneclickvpnkeys
 trojan://HC04361579@13.125.211.80:443?sni=enough-lamb.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20606519
 trojan://HC04361579@13.125.211.80:443?sni=enough-lamb.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20991409
 trojan://HC04361579@13.125.211.80:443?sni=enough-lamb.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20299975
