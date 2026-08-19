@@ -1540,7 +1540,6 @@ trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&amp;security=tls&amp;
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.multiplydose.com#@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#
 trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?allowInsecure=1&amp;fp=chrome#%F0%9F%8D%8F98@oneclickvpnkeys
-trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?allowInsecure=1&amp;fp=chrome#[
 trojan://telegram-id-directvpn@18.220.25.23:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@3.76.5.71:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://tsuchiya@161.34.39.108:443?security=tls&type=tcp&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20794012
