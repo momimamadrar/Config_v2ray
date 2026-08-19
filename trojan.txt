@@ -657,9 +657,7 @@ trojan://EQ30679154@57.180.54.202:443?allowInsecure=0&sni=upright-sheepdog.roost
 trojan://EQ30679154@57.180.54.202:443?allowInsecure=0&sni=upright-sheepdog.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20533215
 trojan://EQ30679154@57.180.54.202:443?sni=upright-sheepdog.rooster465.autos&type=raw&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20314954
 trojan://EQ30679154@57.180.54.202:443?sni=upright-sheepdog.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20990176
-trojan://EQ30679154@internal-raccoon.rooster465.autos:443?allowInsecure=0&amp;sni=internal-raccoon.rooster465.autos#[
 trojan://EQ30679154@inviting-rabbit.rooster465.autos:443?sni=inviting-rabbit.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20255744
-trojan://EQ30679154@modest-bat.rooster465.autos:443?allowInsecure=0&amp;sni=modest-bat.rooster465.autos#[
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=kuame.missionsec.us#Japan%20Klayer%20LLC
 trojan://FH72359861@108.128.201.154:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20177946
 trojan://FH72359861@108.128.201.154:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20690914
