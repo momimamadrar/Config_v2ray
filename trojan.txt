@@ -14,6 +14,7 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 trojan://6ec301428255a78a1d826988d86cc87e@18.162.125.164:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20324962
 trojan://6ec301428255a78a1d826988d86cc87e@54.255.57.233:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20566741
 trojan://6ec301428255a78a1d826988d86cc87e@54.255.57.233:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20960302
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=www.nintendogames.net#%40FarazV2ray
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=www.nintendogames.net#%40FarazV2ray
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=www.nintendogames.net#%40V2rayng_Fast
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20304493
