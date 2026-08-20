@@ -1430,6 +1430,7 @@ trojan://PQ05174892@firm-warthog.rooster465.autos:443?fp=chrome#%F0%9F%8D%8F56@o
 trojan://PQ05174892@fleet-pony.rooster465.autos:443?allowInsecure=1#%F0%9F%8E%8872@oneclickvpnkeys
 trojan://PQ05174892@glowing-filly.rooster465.autos:443?fp=chrome#%F0%9F%8D%8F70@oneclickvpnkeys
 trojan://PQ05174892@immune-earwig.rooster465.autos:443?fp=chrome#%F0%9F%8D%8F65@oneclickvpnkeys
+trojan://PQ05174892@immune-earwig.rooster465.autos:443?fp=chrome#[
 trojan://PQ05174892@moral-dolphin.rooster465.autos:443?fp=chrome#%F0%9F%8D%8F49@oneclickvpnkeys
 trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 trojan://PQ05174892@musical-shrew.rooster465.autos:443?fp=chrome#%F0%9F%8D%8F59@oneclickvpnkeys
@@ -1443,6 +1444,7 @@ trojan://PqTfgecg@trojan.wefuckgfw.gq:443?allowInsecure=1#@Hope_Net-join-us-on-T
 trojan://QV31589740@51.44.160.58:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20472565
 trojan://QV31589740@51.44.160.58:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20561899
 trojan://QV31589740@51.44.160.58:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20613065
+trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&amp;insecure=0&amp;headerType=&amp;type=tcp&amp;allowInsecure=0#[
 trojan://SEYnpOitNLndBhDtkZyeAShl@31.76.49.185:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20852415
 trojan://SEYnpOitNLndBhDtkZyeAShl@31.76.49.185:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20897221
 trojan://SEYnpOitNLndBhDtkZyeAShl@31.76.49.185:443?alpn=http/1.1&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20632051
