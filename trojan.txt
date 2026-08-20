@@ -302,7 +302,6 @@ trojan://AE62539071@89.39.70.9:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20620731
 trojan://AE62539071@89.39.70.9:443?fp=chrome&amp;sni=whole-woodcock.rooster465.autos#%F0%9F%8D%8F8@oneclickvpnkeys
 trojan://AE62539071@89.39.70.9:443?fp=chrome&sni=whole-woodcock.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20171718
 trojan://AE62539071@massive-terrapin.rooster465.autos:443#%F0%9F%8E%8896@oneclickvpnkeys
-trojan://AE62539071@real-cardinal.rooster465.autos:443?allowInsecure=0#[
 trojan://AE62539071@rested-osprey.rooster465.autos:443#%F0%9F%8E%8897@oneclickvpnkeys
 trojan://AE62539071@sacred-hound.rooster465.autos:443?allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20343303
 trojan://AE62539071@smooth-hornet.rooster465.autos:443#%F0%9F%8E%8898@oneclickvpnkeys
