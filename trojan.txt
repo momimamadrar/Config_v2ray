@@ -1,6 +1,4 @@
 trojan://0896373c-7cd9-4221-b50d-9634990d6751@de.v2yyds.com:31912?allowInsecure=1#@Hope_Net-join-us-on-Telegram
-trojan://0896373c-7cd9-4221-b50d-9634990d6751@rn.v2yyds.com:31911?allowInsecure=1#@Hope_Net-join-us-on-Telegram
-trojan://0896373c-7cd9-4221-b50d-9634990d6751@tw.suntory.lol:38511?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://1d2a8749-001e-4809-b767-cb04a54bdf7f@625us.ok365.cyou:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://1d2a8749-001e-4809-b767-cb04a54bdf7f@73hk01.ok365.cyou:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&amp;security=tls&amp;fp=chrome&amp;type=grpc&amp;serviceName=db&amp;sni=n2.gladns.com#United%20State%20Nato
@@ -473,6 +471,7 @@ trojan://FH72359861@87.121.33.109:443?sni=national-stingray.rooster465.autos&pat
 trojan://FH72359861@87.121.33.32:443?security=tls&sni=square-pheasant.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20116912
 trojan://FH72359861@89.39.70.120:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20415459
 trojan://FH72359861@89.39.70.120:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20575567
+trojan://FH72359861@89.39.70.120:443?security=tls&amp;insecure=0&amp;host=v2rayNplus--v2rayNplus--v2rayNplus&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=pro-crane.rooster465.autos#[
 trojan://FH72359861@89.39.70.120:443?sni=pro-crane.rooster465.autos#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A511@oneclickvpnkeys
 trojan://FH72359861@boss-sailfish.rooster465.autos:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20202623
 trojan://FH72359861@boss-sailfish.rooster465.autos:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20968275
