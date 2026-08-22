@@ -739,7 +739,6 @@ trojan://EQ30679154@liked-eft.rooster465.autos:443?sni=liked-eft.rooster465.auto
 trojan://EQ30679154@liked-eft.rooster465.autos:443?sni=liked-eft.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20221386
 trojan://EQ30679154@open-octopus.rooster465.autos:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20413542
 trojan://EQ30679154@open-octopus.rooster465.autos:443?sni=open-octopus.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20400307
-trojan://EQ30679154@pretty-mollusk.rooster465.autos:443#%F0%9F%8D%A530@oneclickvpnkeys
 trojan://EQ30679154@pure-kodiak.rooster465.autos:443?sni=pure-kodiak.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20323402
 trojan://EQ30679154@pure-kodiak.rooster465.autos:443?sni=pure-kodiak.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20651484
 trojan://EQ30679154@renewed-porpoise.rooster465.autos:443?sni=renewed-porpoise.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20585280
@@ -1035,6 +1034,7 @@ trojan://FH72359861@52.195.215.144:443?sni=great-wasp.rooster465.autos&fp=chrome
 trojan://FH72359861@52.195.215.144:443?sni=great-wasp.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20190510
 trojan://FH72359861@52.195.225.156:443?allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20184680
 trojan://FH72359861@52.195.225.156:443?allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20496451
+trojan://FH72359861@52.195.225.156:443?fp=chrome&amp;sni=many-pangolin.rooster465.autos#%F0%9F%A7%AE86@oneclickvpnkeys
 trojan://FH72359861@52.195.225.156:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20356669
 trojan://FH72359861@52.195.225.156:443?security=tls&sni=many-pangolin.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20459127
 trojan://FH72359861@52.195.225.156:443?security=tls&sni=many-pangolin.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20877403
@@ -2256,6 +2256,7 @@ trojan://PQ05174892@thorough-elf.rooster465.autos:443?sni=thorough-elf.rooster46
 trojan://PQ05174892@together-amoeba.rooster465.autos:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20308933
 trojan://PQ05174892@together-amoeba.rooster465.autos:443?sni=together-amoeba.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20769420
 trojan://PQ05174892@together-amoeba.rooster465.autos:443?sni=together-amoeba.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20125219
+trojan://PQ05174892@unbiased-coyote.rooster465.autos:443?fp=chrome#%F0%9F%A7%AE88@oneclickvpnkeys
 trojan://PQ05174892@well-jennet.rooster465.autos:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20252117
 trojan://PQ05174892@well-jennet.rooster465.autos:443?sni=well-jennet.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20951524
 trojan://PQ05174892@well-jennet.rooster465.autos:443?sni=well-jennet.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20675571
