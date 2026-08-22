@@ -904,9 +904,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.181.226:22224?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.181.226:22224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.191.103:22223?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.191.103:22224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.97.116:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.97.116:22223?encryption=none&amp;security=none&amp;type=tcp#OurChannel
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.97.116:22224?encryption=none&amp;security=none&amp;type=tcp#@VlessConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22222?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.61.245:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.61.245:22223?encryption=none&amp;security=none&amp;type=tcp#OurChannel
@@ -938,9 +935,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22223?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22223?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22224?encryption=none&amp;security=none&amp;type=tcp#@VlessConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.213.197:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.213.197:22223?encryption=none&amp;security=none&amp;type=tcp#OurChannel
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.213.197:22224?encryption=none&amp;security=none&amp;type=tcp#@VlessConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.217.128:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.217.128:22223?encryption=none&amp;security=none&amp;type=tcp#OurChannel
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.217.128:22224?encryption=none&amp;security=none&amp;type=tcp#@VlessConfig
@@ -972,9 +966,9 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22222?security=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22223?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40FarazV2ray
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22223?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.40.90:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.40.90:22223?encryption=none&amp;security=none&amp;type=tcp#OurChannel
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.40.90:22224?encryption=none&amp;security=none&amp;type=tcp#@VlessConfig
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.253.165:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.253.165:22223?encryption=none&amp;security=none&amp;type=tcp#OurChannel
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.253.165:22224?encryption=none&amp;security=none&amp;type=tcp#@VlessConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;sni=pqh27v1.carwashipdir.shop#Moldova%20WorkTitans
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?encryption=none&security=none&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20660329
 vless://e4927998-38dd-4bf4-a37d-4cc67a06ee2d@172.66.170.53:8880?encryption=none&host=cold-shadow-66a0.278.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20137306
