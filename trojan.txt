@@ -1,6 +1,5 @@
 trojan://0PUoUQvkGLkxuukHJLje21MCg1DNeOpx@143.20.79.93:28236?allowInsecure=0&sni=vip-nl-1.hkd4fwmg.vip#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20206004
 trojan://0PUoUQvkGLkxuukHJLje21MCg1DNeOpx@143.20.79.93:28236?allowInsecure=0&sni=vip-nl-1.hkd4fwmg.vip#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20826962
-trojan://0PUoUQvkGLkxuukHJLje21MCg1DNeOpx@vip-nl-1.hkd4fwmg.vip:28236?allowInsecure=1&amp;fp=chrome#%F0%9F%8D%A512@oneclickvpnkeys
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&amp;security=tls&amp;fp=chrome&amp;type=grpc&amp;serviceName=db&amp;sni=n2.gladns.com#United%20State%20Nato
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Japan%20NTT%20Pc
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
@@ -8,7 +7,6 @@ trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&amp;securit
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 trojan://654df5c6-73ac-3b11-8269-6b21fb8d9dad@rub01-ipv6.nwncd.com:489?serviceName=mygrpc&amp;sni=rub01.nwncd.com&amp;type=grpc#%F0%9F%8D%A546@oneclickvpnkeys
 trojan://654df5c6-73ac-3b11-8269-6b21fb8d9dad@rub01.nwncd.com:489?serviceName=mygrpc&amp;type=grpc#%F0%9F%8D%A547@oneclickvpnkeys
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=www.nintendogames.net#%40FarazV2ray
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.20.39.109:443?allowInsecure=1&host=space.byu.id.yxls.eu.cc&path=%2Fsg-orcl&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20601149
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.20.39.109:443?allowInsecure=1&host=space.byu.id.yxls.eu.cc&path=/sg-orcl&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20222624
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@172.66.171.48:443?security=tls&sni=space.byu.id.yxls.eu.cc&type=ws&host=space.byu.id.yxls.eu.cc&path=/sg-orcl#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20833214
@@ -2365,8 +2363,7 @@ trojan://humanity@render.com:443?path=%2Fassignment&amp;security=tls&amp;insecur
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#T.me%2FSafeNet_Server%20%F0%9F%92%9A%F0%9F%A4%8D%E2%9D%A4
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.multiplydose.com#@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#
+trojan://telegram-id-directvpn@16.170.118.192:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@35.157.241.124:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-directvpn@51.21.147.200:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-privatevpns@13.48.229.76:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-privatevpns@13.50.45.4:22222?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://xth1trWxty3u5JGt1spEVVJ0M1%2FVW%2FSK@vip-ca-1.hkd4fwmg.xyz:51992?allowInsecure=1&amp;fp=chrome#%F0%9F%8D%A532@oneclickvpnkeys
