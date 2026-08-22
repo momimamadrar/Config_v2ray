@@ -9,7 +9,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 trojan://654df5c6-73ac-3b11-8269-6b21fb8d9dad@rub01-ipv6.nwncd.com:489?serviceName=mygrpc&amp;sni=rub01.nwncd.com&amp;type=grpc#%F0%9F%8D%A546@oneclickvpnkeys
 trojan://654df5c6-73ac-3b11-8269-6b21fb8d9dad@rub01.nwncd.com:489?serviceName=mygrpc&amp;type=grpc#%F0%9F%8D%A547@oneclickvpnkeys
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=www.nintendogames.net#%40FarazV2ray
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=www.nintendogames.net#%40V2rayng_Fast
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.20.39.109:443?allowInsecure=1&host=space.byu.id.yxls.eu.cc&path=%2Fsg-orcl&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20601149
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.20.39.109:443?allowInsecure=1&host=space.byu.id.yxls.eu.cc&path=/sg-orcl&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20222624
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@172.66.171.48:443?security=tls&sni=space.byu.id.yxls.eu.cc&type=ws&host=space.byu.id.yxls.eu.cc&path=/sg-orcl#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20833214
