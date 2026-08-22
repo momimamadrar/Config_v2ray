@@ -354,7 +354,6 @@ trojan://AE62539071@89.39.70.238:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20843572
 trojan://AE62539071@89.39.70.238:443?fp=chrome&amp;sni=present-warthog.rooster465.autos#%F0%9F%A7%AE10@oneclickvpnkeys
 trojan://AE62539071@89.39.70.238:443?fp=chrome&sni=present-warthog.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20111237
 trojan://AE62539071@89.39.70.238:443?fp=chrome&sni=present-warthog.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20372529
-trojan://AE62539071@89.39.70.238:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=present-warthog.rooster465.autos#[
 trojan://AE62539071@89.39.70.238:443?security=tls&sni=present-warthog.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20902362
 trojan://AE62539071@89.39.70.238:443?security=tls&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20839182
 trojan://AE62539071@89.39.70.238:443?sni=present-warthog.rooster465.autos&fp=chrome&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20761569
