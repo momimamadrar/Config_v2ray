@@ -1,6 +1,5 @@
 trojan://0PUoUQvkGLkxuukHJLje21MCg1DNeOpx@143.20.79.93:28236?allowInsecure=0&sni=vip-nl-1.hkd4fwmg.vip#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20197412
 trojan://0PUoUQvkGLkxuukHJLje21MCg1DNeOpx@143.20.79.93:28236?allowInsecure=0&sni=vip-nl-1.hkd4fwmg.vip#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20690756
-trojan://361f238c-ed2a-418d-8c1d-45d6f0e8abe2@unlk2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:443?allowInsecure=1&amp;sni=unlk2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen#@Hope_Net-join-us-on-Telegram
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&amp;security=tls&amp;fp=chrome&amp;type=grpc&amp;serviceName=db&amp;sni=n2.gladns.com#United%20State%20Nato
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Japan%20NTT%20Pc
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
