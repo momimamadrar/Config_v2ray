@@ -1,1 +1,0 @@
-tuic://2f6f1856-5466-4078-b1f0-d3f977211ada:2f6f1856-5466-4078-b1f0-d3f977211ada@198.200.42.129:52649?allow_insecure=1&amp;alpn=h3&amp;congestion_control=bbr&amp;congestion_controller=bbr&amp;sni=www.bing.com&amp;udp_relay_mode=native&amp;version=5#%E2%9B%BD95@oneclickvpnkeys
